@@ -1,0 +1,7 @@
+# Ignora cartelle di IntelliJ
+.idea/
+out/
+
+# File di sistema di Windows (opzionale)
+Thumbs.db
+.DS_Store
